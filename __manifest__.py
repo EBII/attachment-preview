@@ -4,7 +4,7 @@
     'name': 'Attachment Preview',
     'description': 'Preview the attachments',
     'category': 'Generic Modules',
-    'version': '1.1.2.1',
+    'version': '10.0.1.2.1',
     'depends': ['web', 'document'],
 
     # templates
